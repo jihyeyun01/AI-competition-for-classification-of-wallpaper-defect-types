@@ -1,6 +1,6 @@
 # AI-competition-for-classification-of-wallpaper-defect-types
 * 팀원 : 윤지혜, 김민수, 김윤아, 박희영
-* 주요 역할 : 전처리, EDA, 시각화, 모델링
+* 주요 역할 : 데이터 전처리, EDA, 데이터 시각화, 모델링
 * 기간 : 2023.04.10 ~ 2023.05.22
  
     ### [배경]
