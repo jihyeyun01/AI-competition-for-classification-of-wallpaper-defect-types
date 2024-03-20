@@ -1,0 +1,1 @@
+# AI-competition-for-classification-of-wallpaper-defect-types
