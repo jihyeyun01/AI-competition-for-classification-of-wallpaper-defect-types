@@ -16,3 +16,5 @@
 
 
 대회 사이트 : https://dacon.io/competitions/official/236082/overview/description
+
+사용 데이터 : https://dacon.io/competitions/official/236082/data
